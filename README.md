@@ -1,3 +1,10 @@
+# Membros:
+- João Pedro Morangoni
+- Bruno Sorrilha
+- Daniel Benatti
+- Kauan Venâncio
+- Bryan Almeida
+
 # Como Utilizar?
 - A API foi testada utilizando o *ThunderClient*
 - Primeiro crie uma nova requisição e na URL coloque http://localhost/api-contatos/api.php
